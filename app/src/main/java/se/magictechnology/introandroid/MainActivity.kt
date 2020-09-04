@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        // Längre ner text
+        // Längre ner text!
     }
 }
