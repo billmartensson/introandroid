@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Nu har vi ändrat
-        // Mer ändring av text
+        // Nu har vi ändrat!!!!!
+        // Mer ändring av text!!!!
     }
 }
